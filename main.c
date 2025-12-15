@@ -31,7 +31,7 @@ int main() {
             printf("Result = %d\n", div(a, b));
             break;
         default:
-            printf("Invalid choice\n");
+            printf("Invalid   choice\n");
     }
 
     return 0;
