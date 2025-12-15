@@ -1,6 +1,5 @@
 #include <stdio.h>
 
-/* Function prototypes */
 int add(int, int);
 int sub(int, int);
 int mul(int, int);
