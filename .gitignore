@@ -1,0 +1,12 @@
+# Ignore compiled binaries
+*.o
+*.out
+*.exe
+
+# Ignore executables without extension
+program*
+a.out
+
+# Ignore editor files
+.vscode/
+
